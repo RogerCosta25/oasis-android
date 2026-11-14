@@ -1,13 +1,13 @@
 {
   "formato": 1,
   "canal": "producao",
-  "id": "7989c1fa2775",
+  "id": "767646757179",
   "digitalNativa": "1728fa89d097d0a4a764a6727f170d9b05396e943bcfbc1ad57ca70bd4145354",
   "apkMinimo": 16,
-  "url": "https://github.com/RogerCosta25/oasis-android/releases/download/web-7989c1fa2775/camada-web.zip",
-  "sha256": "7fee21e8588dda64b21c50ff6928e5aa12a82c2c9d13ca4be9afc2a4afd67b81",
-  "assinatura": "sn32iUAbGbhgQo9eRLnSlL5dSMVz2xdsbqtMzw9Ty2pgG/lb5bsEWEghXR79QuABY86XkABPha2zJ6KNgCSdg/f1J4XUe+WNpV3rjB+SVJuvCWYvaJxP/AchgjwaECCdQKWmR+xDHMwuuCMBDXoIQLydXHF9InxA5861j46YJDboOigACbZsq/sxXwiV3jDMD3Dq9zmvC33A8XFkF47uZ2KznFXb97D87MJyaJKAcB0mkHWEnmeBcW1Kb3DqOWCdL123DlgEvnwu8w2bKoa1hEkN74vM/Ov8tTB9pXebOJQnXXSF5dw0laJl8QOYSPSgLpkIZnlvd0M4ZYizyJGTo5K5ie8m9Ay65Ogz7BUKlISUcDaAXgzdrx4d4IhUOIk5ZtUAxSYaUtVQyA9U+9YxFvDSt2EPHd2j8BvaRbAiUxoFf324mZyoGUR9TU+Qz2SoJNudW0wC9YUNhaBX5u/5tt+lob8plPuLG6R2wZmPLK++tMTpa+LCES/wMbiY5iBs",
-  "commit": "5ad6382",
-  "publicadoEm": "2026-11-07T14:01:33.339Z",
+  "url": "https://github.com/RogerCosta25/oasis-android/releases/download/web-767646757179/camada-web.zip",
+  "sha256": "d2bf18c1f16f7ec73ef16870837c049e095fd038f040328b3a95ab08949ed56b",
+  "assinatura": "C7Qv/kFRM43J5UVSn6kk+fZ+kIkAzeSEnX8PvdGICnI91dnTPtrpzHog82FR8MaXMamPb1DDD6ncQFkW5vWFs3WM8OwPoPq2nwKqaj/Nxj0dzQhkFrwRXDbyVxhw2D89sW9mo7eLlLc5b2MoyAM0upbs7zNX7Jj6nhG52llv08GqgPxDsg8xyuUpxnEihf4dqqNBV9mDnF5lFNnhYjC17yjgJtewSemNUMhr7ygWPBvm07xfKnKbdLOc5kftE9K80KVmGOlLKGjwfR5h9gpBvoLrJMJJsafedlLrLoXRiFc15Aa1dATUpb+i3XxvJuqAJSdAHX1YKqylKl5nYsDz55jgES6MHvmhlEd6Zt6YKO+pY7UvIrX7m5L0CvGzjGrmVVJ0JQzZ/qGlhLkeFx047zME/JoXl389pnr7YpKCXJKlsfTsI5hI6Ek6C6GK/uEVxEr14lLxaBrkywO2/aItsVeHyVEC6Dd680UMOqlMyG5XawamaylYy4Mcu6Ueugg9",
+  "commit": "122a23a",
+  "publicadoEm": "2026-11-14T01:54:33.604Z",
   "fixado": false
 }
